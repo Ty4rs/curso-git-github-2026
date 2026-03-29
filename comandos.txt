@@ -1,0 +1,6 @@
+git innit -> criar o ambiente para o vercionamento
+git add -> adicionar um arquivo para o versionamento
+git status -> mostra os estatus, se algum arquivo foi editado, excluido, adicionado ou etc
+git commit -> commita os arquivos adicionados, assim criando um versionamento com eles no estado atual do commitamento.
+git diff -> mostra todas as alterações dentro dos arquivos.
+
